@@ -593,7 +593,7 @@ a.blog-btn i {  margin-left: 10px; -webkit-transition: all 0.3s ease-out 0s; -mo
  .team .team-social-icon a i:hover { background: #00a9da; color: #fff; }
  .team-details { background-color: rgba(0, 0, 0, 0.5); display: inline-block; left: 0; top: 0; opacity: 0; height: 100%; overflow: hidden; padding: 0; position: absolute; text-align: center; width: 100%; transition: all 0.5s ease 0s; -webkit-transition: all 0.5s ease 0s; -moz-transition: all 0.5s ease 0s; -ms-transition: all 0.5s ease 0s; -o-transition: all 0.5s ease 0s; }
  .team:hover .team-details { opacity: 1; }
- .team .team-overlay { background: #00a9da; bottom: 0; height: 0; left: 0; position: absolute; transition: all 0.3s ease-out 0s; -webkit-transition: all 0.3s ease-out 0s; -moz-transition: all 0.3s ease-out 0s; -ms-transition: all 0.3s ease-out 0s; -o-transition: all 0.3s ease-out 0s; width: 100%; z-index: 2; }
+ .team .team-overlay { background: #363636;; bottom: 0; height: 0; left: 0; position: absolute; transition: all 0.3s ease-out 0s; -webkit-transition: all 0.3s ease-out 0s; -moz-transition: all 0.3s ease-out 0s; -ms-transition: all 0.3s ease-out 0s; -o-transition: all 0.3s ease-out 0s; width: 100%; z-index: 2; }
  .team .team-overlay .social { background: #363636; padding: 10px 0; }
  .team .team-overlay .social li { display: inline-block; }
  .team .team-overlay .social li a { display: block; font-size: 14px; padding: 0 10px; font-weight: normal;  color: #fff;  }
